@@ -18,7 +18,7 @@ export let name: string
 
   <div class="hero-body">
     <div class="container is-max-desktop has-text-centered">
-      <h1 class="title is-1 is-spaced">Track all of your assets in one place</h1>
+      <h1 class="title is-1 is-spaced">HELLO! Track all of your assets in one place</h1>
       <h2 class="subtitle is-4">Lorem ipsum dolor sit amet consectetur adipisicing elit.<br />Necessitatibus explicabo soluta.</h2>
     </div>
     
